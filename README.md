@@ -4,6 +4,8 @@
 
 > This app is just a demonstration of how to integrate a Rails API with a React application.
 
+[Link to React Front-end](https://github.com/gvgesanto2/microverse-hello-react-front-end)
+
 ## Built With
 
 - **Languages & Technologies:**
